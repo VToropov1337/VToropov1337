@@ -7,11 +7,7 @@
 - CharlesProxy, MitmProxy, Xcode, Android Studio, Postman (Newman), Swagger.
 
 ### My hobby:
-- Trekking
-- Hiking
-- Books
-- Swimming
-- Table tennis
+- Trekking, Hiking, Books, Swimming, Table tennis.
 
 
 <!--
