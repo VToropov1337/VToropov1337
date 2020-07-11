@@ -1,26 +1,10 @@
 ## Hi there 👋 I am a qa engineer
 
 ### Technologies I've worked with:
-- Ruby (Ruby on Rails)
-- Python (Django, DRF, Flask)
-- Golang
-- Groovy
-- Bash
-- Docker
-- Selenium WebDriver
-- Appium
-- PostgreSQL
-- Gitlab CI/CD
-- Jenkins
-- Fastlane
+- Ruby (Ruby on Rails), Python (Django, DRF, Flask), Golang ,Groovy, Bash, Docker, Selenium WebDriver, Appium, PostgreSQL, Gitlab CI/CD, Jenkins, Fastlane.
 
 ### Tools I've worked with:
-- CharlesProxy
-- MitmProxy
-- Xcode
-- Android Studio
-- Postman (Newman)
-- Swagger
+- CharlesProxy, MitmProxy, Xcode, Android Studio, Postman (Newman), Swagger.
 
 ### My hobby:
 - Trekking
